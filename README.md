@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @mys1024
-- 👀 I’m interested in Web technology
-- 🌱 I’m currently learning Python
+My blog: [https://mys.1024.cab](https://mys.1024.cab)
